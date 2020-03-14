@@ -1,0 +1,11 @@
+E:\Proyectos\InyeccionDependencias\DI\bin\Debug\netcoreapp2.1\DI.deps.json
+E:\Proyectos\InyeccionDependencias\DI\bin\Debug\netcoreapp2.1\DI.runtimeconfig.json
+E:\Proyectos\InyeccionDependencias\DI\bin\Debug\netcoreapp2.1\DI.runtimeconfig.dev.json
+E:\Proyectos\InyeccionDependencias\DI\bin\Debug\netcoreapp2.1\DI.dll
+E:\Proyectos\InyeccionDependencias\DI\bin\Debug\netcoreapp2.1\DI.pdb
+E:\Proyectos\InyeccionDependencias\DI\obj\Debug\netcoreapp2.1\DI.csprojAssemblyReference.cache
+E:\Proyectos\InyeccionDependencias\DI\obj\Debug\netcoreapp2.1\DI.csproj.CoreCompileInputs.cache
+E:\Proyectos\InyeccionDependencias\DI\obj\Debug\netcoreapp2.1\DI.AssemblyInfoInputs.cache
+E:\Proyectos\InyeccionDependencias\DI\obj\Debug\netcoreapp2.1\DI.AssemblyInfo.cs
+E:\Proyectos\InyeccionDependencias\DI\obj\Debug\netcoreapp2.1\DI.dll
+E:\Proyectos\InyeccionDependencias\DI\obj\Debug\netcoreapp2.1\DI.pdb
